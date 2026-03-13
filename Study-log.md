@@ -47,5 +47,9 @@ javascriptは動き、HTMLは部品（構造）、CSSは見た目を作るとい
 ### 今日やったこと
 - ３つ以上の条件分岐
 
-
+## 2026-03-13
+### 今日やったこと
+- letとconstの違い（constは固定、letは変動可能）
+- getElementById → 箱を持ってくる
+- textContent → 箱の中身を変える
 
