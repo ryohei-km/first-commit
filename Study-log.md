@@ -141,3 +141,14 @@ marginを使うと外側の余白が作れる
 ### わかったこと
  const msg = document.getElementById("message");は
  <br> msgという箱に、ドキュメント内のmessageのIDのものを入れる（というより、msgで操作できるようつなげる）
+
+
+## 2026-04-16
+### 今日やったこと
+- 配列（messages）を使った表示処理に挑戦
+- count を使って配列の要素を順番に取り出す実装
+- % を使ってループ（循環）させる仕組みを理解
+- function の中に処理を書く重要性を確認
+
+### わかったこと
+msg.textContent =messages[count];
