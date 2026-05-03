@@ -166,3 +166,10 @@ msg.textContent =messages[count];
 ### わかったこと
 - textContentは画面に表示する。console.logは画面に表示せず裏で確認する。
 - 
+
+## 2026-05-03
+### 今日やったこと
+復習
+
+### わかったこと
+textContentは文字を変える。
