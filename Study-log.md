@@ -173,3 +173,7 @@ msg.textContent =messages[count];
 
 ### わかったこと
 textContentは文字を変える。
+
+## 2026-05-04
+### 今日やったこと
+復習（１０秒）
