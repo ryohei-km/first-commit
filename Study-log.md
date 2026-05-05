@@ -177,3 +177,9 @@ textContentは文字を変える。
 ## 2026-05-04
 ### 今日やったこと
 復習（１０秒）
+
+## 2026-05-05 
+### 今日やったこと
+- 配列・count・ループのコードを自力で書いた
+- msg.textContent = messages[count]; を思い出して書いた
+- (count + 1) % messages.length の意味を確認した
